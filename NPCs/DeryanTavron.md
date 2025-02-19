@@ -6,7 +6,7 @@
 **Languages Spoken:** Bav (native), Veden (fluent), Alethi (fluent)
 
 ## Physical Description
-Deryan is a wiry man of average height with a frame shaped by years of grueling labor. His gait is uneven, with a pronounced limp on his left side, a lingering result of his injury. His breathing is often labored, punctuated by wheezing that grows worse with exertion or in poor air quality. His dark Bav features—bronze-toned skin, thick black hair streaked with gray, and piercing dark brown eyes—are etched with lines of pain and weariness. Despite his diminished physical state, there is a quiet dignity in his posture, as though clinging to the remnants of his former pride.
+Deryan is a wiry man of average height with a frame shaped by years of labor. His once-powerful build has softened, but the strength in his calloused hands and shoulders speaks of his years in the mines and on the trade roads. His gait is uneven, with a pronounced limp on his left side, a lingering result of his injury. His breathing contains a light wheezing that grows worse with exertion or in poor air quality. His dark Bav features—bronze-toned skin, thick black hair streaked with gray, and piercing dark brown eyes—are etched with lines of pain and weariness. Despite his diminished physical state, there is a quiet dignity in his posture, as though clinging to the remnants of his former pride.
 
 ## Personality
 Deryan’s natural intelligence and resourcefulness are tempered by years of hardship, leaving him reserved and cautious. While he once brimmed with ambition and confidence, the loss of his freedom and livelihood has eroded much of his self-worth. He often underestimates his value and hesitates to take initiative, yet a spark of his old determination surfaces when others are in need. His empathy for the downtrodden is a defining trait, though he struggles to see himself as worthy of redemption.
@@ -32,3 +32,8 @@ Deryan has been restored to physical health under your group’s care, but his p
 
 ## Role in the Campaign
 Deryan can serve as a knowledgeable ally, offering insights into trade routes, economic systems, and cultural nuances between Bavland, Alethkar, and Jah Keved. His journey from freedom to slavery provides opportunities for character development, as the party might seek to help him reclaim his sense of purpose. Alternatively, his plight could serve as a stark reminder of the societal injustices within Roshar, potentially inspiring the group to take action against such inequalities. As he remains bound to you as a slave, the nature of your relationship and the treatment he receives will shape his future and the course of your journey together.
+
+## Equipment
+
+* Clothing (common) - 2
+* Soap - 1
