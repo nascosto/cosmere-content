@@ -53,3 +53,7 @@ When you touch one of the gemstones, a clear tone rings out — like an instrume
 It's just a plaza. The podium is some kind of musical game — something the residents of Urithiru must have used for fun.
 
 As you turn to head back inside, a feeling of dread hits you. Three shapes between you and the entrance. Whitespines — no. These are bigger. Their skin is an iridescent, shifting blue-green, like a glacial lake under open sky, with ridges of big white spikes running down their backs. They're near the tower wall, between you and the way back in. They look hungry.
+
+## Floating Room
+
+You step into a stone room — fifty feet wide and eighty feet long, with a fifty-foot ceiling. A large set of double doors sits on the far wall. Before you can take it in, the door behind you shuts. The corners of the room light up, and your feet leave the ground. All of you drift toward the center of the room, weightless. Every surface is just far enough away that reaching one won't be easy.
