@@ -16,7 +16,7 @@ Here's a map of the previous section we've already surveyed. The area you're hea
 
 _He hands over a sealed document._
 
-This is your Writ of Exploration and Authorization, signed by Highprince Hatham himself. It grants you full authority to enter, survey, and explore Section 15 — all chambers, passages, and balcony structures, right up to where the tower meets the mountain rock. You're authorized to clear obstructions, mark passages, and secure chambers. Any fabrials, artifacts, or items of interest — catalogue them and report to the surveyors' office. Nothing leaves without approval from the Highprince's steward.
+This is your Writ of Exploration and Authorization, signed by Highprince Hatham himself. It grants you full authority to enter, survey, and explore Section 15 — all chambers, passages, and balcony structures, right up to where the tower meets the mountain rock. You're authorized to clear obstructions, mark passages, and secure chambers. Anything you can't get through, just flag it and we'll send in experts later. We just need to know that it's safe. Any fabrials, artifacts, or items of interest — catalogue them and report to the surveyors' office. Nothing leaves without approval from the Highprince's steward.
 
 One more thing. No one is allowed down there but you and your company. If you find anyone — anyone at all — you detain them and bring them in. No exceptions.
 
